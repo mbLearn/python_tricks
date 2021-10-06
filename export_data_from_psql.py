@@ -71,3 +71,5 @@ else:
 
     # Message stating file path does not exist.
     print("File path does not exist.")
+
+#### https://stuartsplace.com/computing/programming/python/python-and-postgresql-selecting-data
